@@ -65,14 +65,14 @@ Dormé,165,NA,brown,light,brown,NA,female,Naboo,Human
 Dooku,193,80,white,fair,brown,-102,male,Serenno,Human
 Bail Prestor Organa,191,NA,black,tan,brown,-67,male,Alderaan,Human
 Jango Fett,183,79,black,tan,brown,-66,male,Concord Dawn,Human
-Zam Wesell,168,55,blonde,"fair, green, yellow",yellow,NA,female,Zolan,Clawdite
+Zam Wesell,168,55,blonde,"fair, green, yellow",yellow,-22,female,Zolan,Clawdite
 Dexter Jettster,198,102,none,brown,yellow,NA,male,Ojom,Besalisk
 Lama Su,229,88,none,grey,black,NA,male,Kamino,Kaminoan
 Taun We,213,NA,none,grey,black,NA,female,Kamino,Kaminoan
-Jocasta Nu,167,NA,white,fair,blue,NA,female,Coruscant,Human
-Ratts Tyerell,79,15,none,"grey, blue",NA,NA,male,Aleen Minor,Aleena
+Jocasta Nu,167,NA,white,fair,blue,-19,female,Coruscant,Human
+Ratts Tyerell,79,15,none,"grey, blue",NA,-32,male,Aleen Minor,Aleena
 R4-P17,96,NA,none,"silver, red","red, blue",NA,female,NA,NA
-Wat Tambor,193,48,none,"green, grey",NA,NA,male,Skako,Skakoan
+Wat Tambor,193,48,none,"green, grey",NA,-19,male,Skako,Skakoan
 San Hill,191,NA,none,grey,gold,NA,male,Muunilinst,Muun
 Shaak Ti,178,57,none,"red, blue, white",black,NA,female,Shili,Togruta
 Grievous,216,159,none,"brown, white","green, yellow",NA,male,Kalee,Kaleesh
